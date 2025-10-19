@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-"Genetics & Genomics `|` Life Science analytics `|` Strategy Consulting `|` Digital Health"
+"Genetics & Genomics `| Life Science analytics `| Strategy Consulting `| Digital Health"
 
 I’m a healthcare analyst with a background in genetics and bioinformatics, combined with global strategy consulting experience across pharmaceutical and life sciences markets. My work spans go-to-market strategy, market intelligence, pricing, and product positioning, helping teams translate complex data into insights that drive impactful commercial decisions.
 
