@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "YM Liaw"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Genetics & Genomics \| Life Science analytics \| Strategy Consulting \| Digital Health"
+  bio    : "Genetics & Genomics `|` Life Science analytics `|` Strategy Consulting `|` Digital Health"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
