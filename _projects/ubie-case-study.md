@@ -1,6 +1,7 @@
 ---
 title: "Ubie Product Teardown"
 categories: [portfolio, case-study]
+layout: single
 permalink: /projects/
 ---
 
