@@ -10,13 +10,13 @@
 .page__content,
 .archive__item-excerpt,
 .notice {
-  font-size: 1rem; /* Adjust this value (1rem is standard, try 1.1rem for slightly larger, or 0.9rem for smaller) */
+  font-size: .8rem; /* Adjust this value (1rem is standard, try 1.1rem for slightly larger, or 0.9rem for smaller) */
 }
 
 /* You can also target lists, paragraphs, etc. within the content */
 .page__content p,
 .page__content li {
-    font-size: .8rem; /* Match the above value or make it slightly different */
+    font-size: .7rem; /* Match the above value or make it slightly different */
 }
 
 // html {
