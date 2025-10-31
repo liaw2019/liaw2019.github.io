@@ -1,0 +1,13 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes"; // This loads the theme's styles
+
+html {
+  font-size: 12px; // Adjust this value to your desired base font size
+
+  // You can add more custom CSS here if needed
+}
