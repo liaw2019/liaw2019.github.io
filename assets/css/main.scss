@@ -6,7 +6,7 @@
 
 @import "minimal-mistakes"; // This loads the theme's styles
 
-/* Change font size for all post/project content */ this changes only content and not whole website
+/* Change font size for all post/project content  this changes only content and not whole website */
 .page__content,
 .archive__item-excerpt,
 .notice {
@@ -16,7 +16,7 @@
 /* You can also target lists, paragraphs, etc. within the content */
 .page__content p,
 .page__content li {
-    font-size: 1rem; /* Match the above value or make it slightly different */
+    font-size: .8rem; /* Match the above value or make it slightly different */
 }
 
 // html {
