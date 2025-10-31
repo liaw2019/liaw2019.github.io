@@ -6,8 +6,20 @@
 
 @import "minimal-mistakes"; // This loads the theme's styles
 
-html {
-  font-size: 12px; // Adjust this value to your desired base font size
+/* Change font size for all post/project content */ this changes only content and not whole website
+.page__content,
+.archive__item-excerpt,
+.notice {
+  font-size: 1rem; /* Adjust this value (1rem is standard, try 1.1rem for slightly larger, or 0.9rem for smaller) */
+}
+
+/* You can also target lists, paragraphs, etc. within the content */
+.page__content p,
+.page__content li {
+    font-size: 1rem; /* Match the above value or make it slightly different */
+}
+// html {
+  // font-size: 12px; // Adjust this value to your desired base font size, this changes all fonts across the web
 
   // You can add more custom CSS here if needed
-}
+// }
