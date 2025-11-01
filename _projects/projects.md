@@ -1,7 +1,7 @@
 ---
 title: "List of projects"
 layout: archive
-permalink: /projects/
+permalink: /project-archive/
 collection: projects 
 entries_layout: grid # for a grid view
 ---
