@@ -1,6 +1,6 @@
 ---
 title: "Diabetes: Impact on GLP-1 on glucose monitoring device market"
-categories: [portfolio]
+date: 2025-11-01
 layout: single
 permalink: /projects/diabetes/
 ---
