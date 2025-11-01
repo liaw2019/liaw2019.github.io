@@ -1,6 +1,6 @@
 ---
 title: "Ubie Product Teardown"
-categories: [portfolio, case-study]
+date: 2025-10-31
 layout: single
 permalink: /projects/ubie/
 ---
@@ -19,7 +19,7 @@ Unlike many community-based health forums, Ubie ensures medically sound answers 
 Ubie addresses a common healthcare access problem as traditional clinic visits don’t work for everyone. The app targets two distinct user groups facing barriers in seeking care:
 
 1. **Time-constrained users** include busy professionals juggling work demands, parents managing young children, and elderly or rural residents with limited access to medical facilities. These people usually face difficulty to visit in-person during clinic hours, and need healthcare solutions that fit their schedules and physical limitations
-2. **Decision-uncertain users** represent a second critical group - people experiencing symptoms but unsure whether it warrants a hospital visit or which specialist to consult. For these users, Ubie’s symptoms checker together with Ask Doctors forum provide crucial guidance before they commit time and resources to in-person consultation
+2. **Decision-uncertain users** represent a second critical group - people experiencing symptoms but unsure whether it warrants a hospital visit or which speci-list to consult. For these users, Ubie’s symptoms checker together with Ask Doctors forum provide crucial guidance before they commit time and resources to in-person consultation
 
 These two user segments tie to two key services/ monetization route in Ubie - online consultation and Ask Doctor forum.
 
