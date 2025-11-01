@@ -6,3 +6,4 @@ permalink: /projects/diabetes/
 ---
 
 Business question: Does GLP-1 affect glucose monitoring device market positive or negatively? How and why?
+
